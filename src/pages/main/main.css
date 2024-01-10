@@ -1,0 +1,5 @@
+div.posts{
+display:grid;
+row-gap: 50px;
+margin: 50px 20%;
+}

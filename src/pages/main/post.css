@@ -1,0 +1,36 @@
+div.post{
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  padding: 10px 30px;
+  border-radius: 2px;
+}
+
+p.upvotes{
+color: blue;
+font-size: .8em;
+margin-left: 10px;
+}
+
+.username{
+  color:blue;
+  font-style: italic;
+  font-size: .9em;
+}
+
+button.like{
+ width: 30px;
+ border-width: 0px;
+}
+
+.title{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.9em;
+  font-weight: bold;
+  color: black;
+}
+
+.description{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: small;
+  font-weight: normal;
+  color: black;
+}
